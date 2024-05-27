@@ -1,0 +1,20 @@
+body {
+    background-color: #728da8;
+}
+
+.card {
+    margin-top: 20px;
+    background-color: rgb(229, 224, 224);
+}
+
+.card-title {
+    font-size: 2rem;
+}
+
+#respostaAvaliação {
+    font-size: 1.5rem;
+}
+
+#herois .list-group-item {
+    margin-top: 10px;
+}
